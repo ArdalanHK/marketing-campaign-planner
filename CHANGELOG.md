@@ -2,7 +2,7 @@
 
 All notable changes to this project are recorded here.
 
-## [Unreleased]
+## [0.1.0] - 2026-09-21
 
 ### Added
 - Input form with validation for product, audience, objective, channel, message and optional context.
