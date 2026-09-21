@@ -8,7 +8,7 @@ You describe what you are promoting, who it is for, what you want to achieve, an
 
 This is an **early draft (version 0.1.0)**. It is a deliberately small first version.
 
-- There are no published releases yet.
+- Version 0.1.0 is an early draft release.
 - There is no usage data, user base or community to report. Nothing in this repository claims otherwise.
 - Everything listed under [Roadmap](#roadmap) is planned or possible, not implemented.
 
