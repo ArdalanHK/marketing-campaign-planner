@@ -32,7 +32,7 @@ This is an **early draft (version 0.1.0)**. It is a deliberately small first ver
 Requirements: [Node.js](https://nodejs.org/) 20.19 or newer.
 
 ```bash
-git clone https://github.com/<ArdalanHK>/marketing-campaign-planner.git
+git clone https://github.com/ArdalanHK/marketing-campaign-planner.git
 cd marketing-campaign-planner
 npm install
 npm run dev
